@@ -1,0 +1,24 @@
+body
+{
+    text-align:center;
+}
+.links
+{
+float:left;
+color:#808000;
+padding-top:5px;
+padding-left:33px;
+padding-right:25px;
+padding-bottom:5px;
+font-family:fantasy;
+font-size:20px;
+display:inline;
+}
+h1
+{
+    text-align:center;
+}
+a
+{
+    text-align:center;
+}
